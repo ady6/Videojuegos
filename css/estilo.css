@@ -1,0 +1,49 @@
+.vertical-menu {
+  width: 150px;
+  position: fixed;
+}
+
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+h1 {
+	position: fixed;
+background-color: red;
+width: 100%
+}
+nav {
+position: fixed;
+right: 0%;
+top:10%;
+background-color: blue;
+width: 20%;
+text-align: right;
+}
+
+
+.contenido {
+position: absolute;
+top: 20%;
+left: 180px;
+color: white;
+text-align: justify;
+width: 80% 
+
+
+
+}
+
